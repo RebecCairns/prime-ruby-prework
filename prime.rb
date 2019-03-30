@@ -38,7 +38,7 @@ def prime?(num)
       returner = true
     end 
     if num <= 1 
-      returner = false 
+      return false 
     end   
     if num % primeNumArr[num2] == 0
       returner = true 
