@@ -43,4 +43,5 @@ def prime?(num)
       return true 
     end 
   end 
+  return true
 end  
