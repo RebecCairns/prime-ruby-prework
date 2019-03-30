@@ -42,5 +42,5 @@ def prime?(num)
     if num % primeNumArr[num2] == 0
       return true 
     end 
-    
+  end 
 end  
