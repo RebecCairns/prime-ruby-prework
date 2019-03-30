@@ -41,7 +41,7 @@ def prime?(num)
       return false 
     end   
     if num % primeNumArr[num2] == 0
-      returner = true 
+      return true 
     end 
     num2 += 1
   end
