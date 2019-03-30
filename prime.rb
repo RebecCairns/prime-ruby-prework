@@ -35,7 +35,7 @@ def prime?(num)
   returner = ""
   primeNumArr.each do 
     if num == primeNumArr[num2]
-      returner = true
+      return true
     end 
     if num <= 1 
       return false 
