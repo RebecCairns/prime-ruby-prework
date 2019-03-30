@@ -30,5 +30,5 @@ def prime?(num)
   return returner
 end  
 def prime2?(num)
-  
+  do 
 end  
