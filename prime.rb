@@ -45,5 +45,5 @@ def prime?(num)
     end 
     num2 += 1
   end
-  return returner
+  return true
 end  
