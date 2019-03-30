@@ -28,4 +28,7 @@ def prime?(num)
     end   
   end 
   return returner
-end    
+end  
+def prime2?(num)
+  
+end  
